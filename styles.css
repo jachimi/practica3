@@ -1,0 +1,24 @@
+.movetitle {
+  text-align: center;
+  vertical-align: bottom;
+}
+
+#nextsteps {
+  color: red;
+}
+
+.emphasized {
+  font-size: 1.2em;
+}
+
+pre {
+  width: auto;
+  left: auto;
+}
+
+/*pre {
+/*  width: 100%; /* 106%; */
+/*  left: 0; /* -60px; */
+/*  padding: 10px 15px 10px 15px; /* 10px 0 10px 60px; */
+/*}
+
